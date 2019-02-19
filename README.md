@@ -1,0 +1,2 @@
+# CR10_SKR_MARLIN
+Marlin Config CR10
